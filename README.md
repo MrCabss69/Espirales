@@ -1,4 +1,4 @@
-# Espirales
+# Geometría, espirales y plots
 Espiralízate
 
 
