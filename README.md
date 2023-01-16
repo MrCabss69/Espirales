@@ -1,11 +1,11 @@
 # Geometría, espirales y plots
 Espiralízate
-![alt text](https://github.com/MrCabss69/PokerGrid/blob/main/resources/Screenshot%20from%202022-12-31%2011-42-05.png?raw=true)
-![alt text](https://github.com/MrCabss69/PokerGrid/blob/main/resources/Screenshot%20from%202022-12-31%2011-42-05.png?raw=true)
-![alt text](https://github.com/MrCabss69/PokerGrid/blob/main/resources/Screenshot%20from%202022-12-31%2011-42-05.png?raw=true)
-![alt text](https://github.com/MrCabss69/PokerGrid/blob/main/resources/Screenshot%20from%202022-12-31%2011-42-05.png?raw=true)
-![alt text](https://github.com/MrCabss69/PokerGrid/blob/main/resources/Screenshot%20from%202022-12-31%2011-42-05.png?raw=true)
+Cuadernos en Jupyter explicando como construir numérica y algebraicamente figuras geométricas interesantes
 
+![alt text](https://github.com/MrCabss69/Espirales/blob/main/resources/golden_2_sym.png)
+![alt text](https://github.com/MrCabss69/Espirales/blob/main/resources/golden_vs_fibo.png)
+![alt text](https://github.com/MrCabss69/Espirales/blob/main/resources/golden_3d_and_proyection.png)
+![alt text](https://github.com/MrCabss69/Espirales/blob/main/resources/mandelbrot.png)
 
 ---
 
